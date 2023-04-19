@@ -1,0 +1,2 @@
+# Nya
+Projeto de ia
